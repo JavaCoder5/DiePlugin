@@ -1,0 +1,10 @@
+name: DiePlugin
+version: '${project.version}'
+main: me.max.dieplugin.DiePlugin
+api-version: 1.19
+authors: [ GeniusTek ]
+description: adds a /die command
+commands:
+  die:
+    description: Kills the player
+    usage: /<command>
